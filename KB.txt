@@ -1,0 +1,10 @@
+Flask 		Python based light weight web framework
+Jinja2 		template with Python
+
+Web3 		Decentralized based on blockchain
+Polkadort	blockchain-based distributed computing platform "parachains"
+Blockchain	Decentralized, ditributed digital ledger consisting of records called blocks that is used to record transactions across many computers so that any involved block cannot be altered retroactively, without the alteration of all subsequent blocks.
+
+Distributed Ledger (Technology, DLT, or Replicated Journal Technology, RJT)	is a consensus of replicated, shared, and synchonized digital data geographically spread across multiple sites, contries, or institutions, as opposed to a centralized datasbase
+
+Metaverse VR, AR
